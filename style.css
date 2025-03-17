@@ -154,14 +154,9 @@ height: 500px;
    margin-left: 120px;
 }
 .all-recipies{
-    /* display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); */
-
-     display: flex; 
-     justify-content: space-evenly; 
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
     
-    
-   
 }
      /* box-area */
 .box{
